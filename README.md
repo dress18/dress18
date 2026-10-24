@@ -1,16 +1,14 @@
-## Hi there 👋
+Hola, soy Andrés 👋
+Soy estudiante de Ingeniería de Software y Coder en Riwi, con experiencia en el desarrollo de SaaS, especializado en frameworks como Astro, React y Tailwind CSS, y bases de datos como MySQL y Supabase.
 
-<!--
-**dress18/dress18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Lo que estoy haciendo
+🎮 Desarrollando sitios y aplcaciones web
+🌱 Reforzando mis conocimientos en AI y desarrollo de machine learning
+📚 Participando en el centro de desarrollo de alto rendimiento RIWI
 
-Here are some ideas to get you started:
+Tecnologías
+HTML5 CSS5 TAILWINDCSS ASTRO JAVASCRIPT TYPESCRIPT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contacto
+GitHub: @dress18
+Correo: dev.andrez18@gmail.com
